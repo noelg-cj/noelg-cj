@@ -1,4 +1,5 @@
-![profile](https://github.com/noelg-cj/noelg-cj/assets/76249580/d563844b-6c07-43e0-ae05-d9235111a6d1)
+![profile_2](https://github.com/noelg-cj/noelg-cj/assets/76249580/0b92c9b7-8fb8-4836-b1a8-1aa792a9cd87)
+
 
 
 <!--
