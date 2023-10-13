@@ -12,9 +12,9 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 
 ## My Stats
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelg-cj)](https://git.io/streak-stats)
-<br />
-[![Noel's GitHub stats](https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj)](https://github.com/noelg-cj/github-readme-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelg-cj" alt="github streak" align="center" />
+  <br />
+  <img src="https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj" alt="Github status" align="center" />
 </div>
 <br />
 
