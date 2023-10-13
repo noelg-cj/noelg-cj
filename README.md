@@ -1,4 +1,4 @@
-[profile.png](https://github.com/noelg-cj/noelg-cj/blob/main/profile.png)
+[profile.png](https://github.com/noelg-cj/noelg-cj/blob/main/profile.png?raw=true)
 
 <!--
 **noelg-cj/noelg-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
