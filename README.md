@@ -1,6 +1,5 @@
-![profile.png](https://github.com/noelg-cj/noelg-cj/blob/main/profile.png?raw=true)
+![profile](https://github.com/noelg-cj/noelg-cj/assets/76249580/d563844b-6c07-43e0-ae05-d9235111a6d1)
 
-Hi, there!
 
 <!--
 **noelg-cj/noelg-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
