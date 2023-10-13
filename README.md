@@ -14,6 +14,8 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelg-cj" alt="github streak" align="center" />
   <br />
+  <br />
+  <br />
   <img src="https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj" alt="Github status" align="center" />
 </div>
 <br />
