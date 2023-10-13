@@ -24,7 +24,8 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 <br/>
 <br />
 <br />
-[![Top Langs](https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical)](https://github.com/noelg-cj/github-readme-stats)
+Top language stats:
+<img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" />
 </div>
 <!--
 - 🔭 I’m currently working on ...
