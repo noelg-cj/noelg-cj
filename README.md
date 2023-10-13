@@ -10,7 +10,7 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 - 👯 I’m looking to collaborate on ambitious projects that need my expertise.
 - 📖 I love learning something new everyday!
 
-[![Noel's GitHub stats](https://github-readme-stats-git-master-noelg-cj.vercel.app/api?username=noelg_cj)](https://github.com/noelg_cj/github-readme-stats)
+[![Noel's GitHub stats](https://github-readme-stats-git-master-noelg-cj.vercel.app/api?username=noelg-cj)](https://github.com/noelg-cj/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
