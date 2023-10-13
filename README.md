@@ -19,14 +19,9 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 [![trophy](https://github-profile-trophy.vercel.app/?username=noelg-cj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and tools
-<div align=center>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,dart,flutter,c,cpp,java,py,git,electron,mysql,nodejs,vite,vscode,visualstudio,figma,blender&perline=5)](https://skillicons.dev)
-<br/>
-<br />
-<br />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,dart,flutter,c,cpp,java,py,git,electron,mysql,nodejs,vite,vscode,visualstudio,figma,blender&perline=5" alt="languages and tools" align=center />
 Top language stats:
-<img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" />
-</div>
+<img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" align=center />
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
