@@ -14,14 +14,18 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelg-cj)](https://git.io/streak-stats)
 <br />
 [![Noel's GitHub stats](https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj)](https://github.com/noelg-cj/github-readme-stats)
+<br />
 
 ## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=noelg-cj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
 
 ## Languages and tools
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,dart,flutter,c,cpp,java,py,git,electron,mysql,nodejs,vite,vscode,visualstudio,figma,blender&perline=5" alt="languages and tools" align=center />
-Top language stats:
-<img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" align=center />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,dart,flutter,c,cpp,java,py,git,electron,mysql,nodejs,vite,vscode,visualstudio,figma,blender&perline=5" alt="languages and tools" align="center" />
+<br />
+
+<p align="center">Top language stats:</p>
+<img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" align="center" />
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
