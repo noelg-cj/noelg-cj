@@ -13,13 +13,14 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 ## My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelg-cj)](https://git.io/streak-stats)
 [![Noel's GitHub stats](https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj)](https://github.com/noelg-cj/github-readme-stats)
-[![Top Langs](https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical)](https://github.com/noelg-cj/github-readme-stats)
 
 ## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=noelg-cj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,dart,flutter,c,cpp,java,py,git,electron,mysql,nodejs,vite,vscode,visualstudio,figma,blender&perline=5)](https://skillicons.dev)
+<br/>
+[![Top Langs](https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical)](https://github.com/noelg-cj/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
