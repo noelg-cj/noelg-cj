@@ -24,7 +24,8 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,dart,flutter,c,cpp,java,py,git,electron,mysql,nodejs,vite,vscode,visualstudio,figma,blender&perline=5" alt="languages and tools" align="center" />
   <br />
-  
+  <br />
+  <br />
   <p align="center">Top language stats:</p>
   <img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" align="center" />
 </div>
