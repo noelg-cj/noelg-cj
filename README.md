@@ -1,4 +1,4 @@
-### Hi there 👋
+(profile.png)
 
 <!--
 **noelg-cj/noelg-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
