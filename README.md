@@ -9,6 +9,7 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 - 🌱 Currently learning flutter and trying my hand on cross platform app development.
 - 👯 I’m looking to collaborate on ambitious projects that need my expertise.
 - 📖 I love learning something new everyday!
+- 📫 How to reach me: noelgeorge2004@gmail.com
 
 ## My Stats
 <div align="center">
