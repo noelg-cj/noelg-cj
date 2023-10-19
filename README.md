@@ -22,7 +22,9 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 <br />
 
 ## Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=noelg-cj&column=5&theme=onedark" alt="trophies" align="center" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=noelg-cj&column=5&theme=onedark" alt="trophies" align="center" />
+</div>
 <br />
 
 ## Languages and tools
