@@ -13,7 +13,7 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 
 ## My Stats
 <div align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelg-cj" alt="github streak" align="center" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelg-cj" alt="github streak" align="center" />
   <br />
   <br />
   <br />
