@@ -13,7 +13,7 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 
 ## My Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelg-cj" alt="github streak" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelg-cj&theme=radical" alt="github streak" align="center" />
   <br />
   <br />
   <br />
@@ -22,7 +22,7 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
   <br />
   <br />
   <br />
-  <img src="https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj" alt="Github status" align="center" />
+  <img src="https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj&theme=radical" alt="Github status" align="center" />
 </div>
 <br />
 
@@ -38,8 +38,8 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
   <br />
   <br />
   <br />
-  <p align="center">Top language stats:</p>
-  <img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" align="center" />
+  <!-- <img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" align="center" /> -->
+  <img src="https://stats.quine.sh/noelg-cj/languages-over-time?theme=dark" alt="top langs" align="center" />
 </div>
 <!--
 - 🔭 I’m currently working on ...
