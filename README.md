@@ -17,9 +17,12 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
   <br />
   <br />
   <br />
-  <img src="https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj" alt="Github status" align="center" />
-  <br />
   <img src="https://stats.quine.sh/noelg-cj/github?theme=dark" alt="stats" align="center" />
+  <img src="https://stats.quine.sh/noelg-cj/dependencies?theme=dark" alt="dependencies" align="center" />
+  <br />
+  <br />
+  <br />
+  <img src="https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj" alt="Github status" align="center" />
 </div>
 <br />
 
