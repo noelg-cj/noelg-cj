@@ -10,7 +10,6 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
 - 👯 I’m looking to collaborate on ambitious projects that need my expertise.
 - 📖 I love learning something new everyday!
 - 📫 How to reach me: noelgeorge2004@gmail.com
-- Portfolio - https://noelg-cj.github.io/Portfolio/
 
 ## My Stats
 <div align="center">
