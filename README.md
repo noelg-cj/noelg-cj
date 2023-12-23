@@ -1,4 +1,4 @@
-![profile_2](https://github.com/noelg-cj/noelg-cj/assets/76249580/0b92c9b7-8fb8-4836-b1a8-1aa792a9cd87)
+![Profile banner - 1](https://github.com/noelg-cj/noelg-cj/assets/76249580/7cbdbb24-b4db-4f0d-bb0f-61291c5237eb)
 
 
 <h1>Noel George 🎄</h1>
