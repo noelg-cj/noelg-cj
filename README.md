@@ -22,7 +22,7 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
   <br />
   <br />
   <br />
-  <img src="https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj&theme=radical" alt="Github status" align="center" />
+  <img src="https://github-readme-stats-noelg-cj.vercel.app/api?username=noelg-cj&theme=radical&include_all_commits=true" alt="Github status" align="center" />
 </div>
 <br />
 
