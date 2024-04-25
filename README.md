@@ -6,7 +6,7 @@ Hey! Welcome to my profile!
 I am a Software Engineer and Frontend Developer who loves to try new things.
 
 - 🔭 I'm an undergraduate student at College of Engineering, Trivandrum.
-<!--- 🛠️ Frontend Developer-->
+- 🛠️ Frontend Developer
 - 🌱 Currently learning and trying my hand on Graphics programming with OpenGL.
 - 👯 I’m looking to collaborate on ambitious projects that need my expertise.
 - ☕ Coffee and chill
