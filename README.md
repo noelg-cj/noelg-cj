@@ -19,7 +19,7 @@ I am a Software Engineer and Frontend Developer who loves to try new things.
   <br />
   <br />
   <br />
-  <!--<img src="https://stats.quine.sh/noelg-cj/github?theme=dark" alt="stats" align="center" /> -->
+  <img src="https://stats.quine.sh/noelg-cj/github?theme=dark" alt="stats" align="center" />
   <img src="https://stats.quine.sh/noelg-cj/dependencies?theme=dark" alt="dependencies" align="center" />
   <br />
   <br />
